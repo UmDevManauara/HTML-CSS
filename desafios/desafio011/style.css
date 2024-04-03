@@ -2,21 +2,22 @@
 
 body{
     background-image: url(imagens/espaco.jpg);
-    background-size: cover;
     background-attachment: fixed;
-    border: 20px red solid;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+   border: 3px dashed red;
+   
 
     
     
 }
 div{
-    display: inline-block;
-    background-size: 500px;
-    background-attachment: fixed;
-    height: 1080px;
-    width: 2650px;
-    background-repeat: no-repeat;
-    background-position: center;
     background-image: url(imagens/astronauta.png);
-    border: 20px solid green;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 200px;
+    border: 3px solid green;
+    height: 88vh;
+  
 }
