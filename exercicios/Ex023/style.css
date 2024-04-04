@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+table{
+width: 300px;
+border-collapse: collapse;
+border: 3px solid black;
+
+}
+
+td{
+    border: 1px solid black;
+    padding:5px;
+}
+tr.linha{
+    background-color: rgb(197, 195, 195);
+}
+td.dado{
+    color: rgb(10, 10, 10);
+}
