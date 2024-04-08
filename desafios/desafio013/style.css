@@ -35,7 +35,7 @@ section#telefone{
     height: 627px;
     width: 311px;
 }
-section#telefone >iframe{
+iframe#tela{
     position: absolute;
     top: 81px;
     left: 22px;
@@ -43,6 +43,23 @@ section#telefone >iframe{
     width: 267px;
     
 }
+section#social{
+    text-align: right;
+    
+   
+}
+
+section#social >a>img{
+   width: 50px;
+   margin: 5px;
+   border-radius: 50%;
+   box-shadow: 1px 1px 5px black;
+
+}
+section#social img:hover{
+    
+}
+
 
 
 
