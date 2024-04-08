@@ -34,8 +34,13 @@ section#telefone{
     background: url(imagens/frame-iphone.png) no-repeat;
     height: 627px;
     width: 311px;
-
-
+}
+section#telefone >iframe{
+    position: absolute;
+    top: 81px;
+    left: 22px;
+    height: 470px;
+    width: 267px;
     
 }
 
